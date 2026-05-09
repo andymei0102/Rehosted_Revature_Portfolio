@@ -1,0 +1,24 @@
+3/5/2026 Standup notes
+
+- Reading/Validating data
+    - Reading csv to python
+        - pd.read_csv()
+        - looking for empty values/NaN
+    - Saving subset of dataframe (discarding original)
+        - Think about why keeping/dropping certain columns
+        - age,monthly_income,daily_internet_hours,smartphone_usage_years,social_media_hours,
+        - online_payment_trust_score,tech_savvy_score,monthly_online_orders,monthly_store_visits,
+        - avg_online_spend,shopping_preference
+- Preprocessing (cleaning + standardizing)
+    - data type conversions (int, float, etc)
+    - lowercase all text, strip whitespace
+    - empty values: dropping rows based on amount
+    - removing duplicate rows
+    - Decide which columns to work with/drop
+- Database creation (schema + connectivity)
+    - Create schema based on cleaned csv file
+    - function to upload csv data to database table (parameterized queries)
+- Testing (test driven design, logging/reporting)
+    - Configure logger
+    - Unit testinow g for each function
+    - Testing by dataset sample

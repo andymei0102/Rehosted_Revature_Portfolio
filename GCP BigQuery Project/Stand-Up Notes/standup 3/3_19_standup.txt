@@ -1,0 +1,18 @@
+What did we get done:
+- got python connected to our GCP (practice)
+- got practice on Bigquery and read up on GCP
+
+
+What we're going to get done
+- setup fastAPI and Uvicorn, define our resources, finish making parquet file
+
+- Discussed what type of resources we want our API to have
+    - Sales over time (give time frame)
+
+    - Sales by Region/State
+
+    - Top N products
+
+
+Blockers:
+quiz, evolv, qc on monday

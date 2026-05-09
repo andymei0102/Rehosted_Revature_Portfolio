@@ -1,0 +1,33 @@
+-- We will need to add an id to our data later 
+
+Customers
+---------
+customer_id (PK)
+age
+monthly_income
+
+Technology_Usage
+----------------
+customer_id (FK) (could be PK too potentially)
+daily_internet_hours
+smartphone_usage_years
+
+Social_Behavior
+---------------
+customer_id (FK)
+social_media_hours
+online_payment_trust_score
+tech_savvy_score
+
+Shopping_Behavior
+-----------------
+customer_id (FK)
+monthly_online_orders
+monthly_store_visits
+avg_online_spend
+shopping_preference_id (FK)
+
+Shopping_Preference
+-------------------
+shopping_preference_id (PK)
+preference_name

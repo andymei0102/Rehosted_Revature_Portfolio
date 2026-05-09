@@ -1,0 +1,294 @@
+Minecraft Bastion Speedrun Guide — Fact-Check Knowledge Document
+
+1. OVERVIEW
+A Bastion Remnant is a Nether structure containing Piglins, loot chests, gold blocks, and dangerous terrain. In speedrunning, Bastions are critical for acquiring:
+- Gold
+- Ender Pearls (via bartering)
+- Diamond gear (rare loot)
+- Obsidian or utility items (varies by loot type)
+
+Goal of bastion speedrun strategy:
+- Enter safely
+- Locate treasure quickly
+- Secure gold/loot
+- Barter efficiently
+- Exit without dying
+
+------------------------------------------------------------
+
+2. BASTION TYPES
+
+There are 4 main Bastion variants:
+
+1. Treasure Bastion
+- Central treasure room
+- Contains magma cube spawner
+- Highest-value loot
+
+2. Bridge Bastion
+- Large open structure
+- Dangerous Piglin Brute patrols
+
+3. Hoglin Stable Bastion
+- Contains Hoglins (food + threat)
+- Good for food farming
+
+4. Housing Units Bastion
+- Multiple rooms
+- Moderate loot spread
+
+ASCII (generic bastion layout):
+
+        [STRUCTURE]
+     +----------------+
+     |  ROOM  | ROOM  |
+     |--------+--------|
+     |  GOLD  | CHEST  |
+     |--------+--------|
+     | BRUTES | TREASURE|
+     +----------------+
+
+------------------------------------------------------------
+
+3. ENTRY STRATEGY (FIRST 30 SECONDS)
+
+Primary objectives on entry:
+- Avoid Piglin Brutes
+- Identify chest locations
+- Secure safe high ground
+- Do NOT open chests immediately if Piglins are nearby
+
+ASCII ENTRY FLOW:
+
+[ENTER BASTION]
+       |
+       v
++------------------+
+| Immediate Scan   |
++------------------+
+   |       |      |
+Loot   Threat   Exit route
+
+------------------------------------------------------------
+
+4. PIGLIN BEHAVIOR RULES
+
+Piglins:
+- Neutral unless provoked
+- Aggro if:
+  - Player opens chest
+  - Player breaks gold
+  - Player wears non-gold armor
+
+Piglin Brutes:
+- Always hostile
+- High damage
+- Cannot be bribed with gold armor
+
+ASCII:
+
+[PLAYER]
+   |
+   v
++----------------------+
+| GOLD ARMOR CHECK     |
++----------------------+
+   |YES        |NO
+   v           v
+Neutral     Aggro Piglins
+
+------------------------------------------------------------
+
+5. LOOT PRIORITY SYSTEM
+
+Speedrun loot priority:
+
+1. Gold blocks
+2. Treasure chest loot
+3. Bartering gold
+4. Obsidian / utility items
+
+ASCII:
+
+LOOT VALUE PRIORITY:
+GOLD BLOCKS >>> CHESTS >>> BARTER >>> RANDOM ITEMS
+
+------------------------------------------------------------
+
+6. TREASURE CHEST STRATEGY
+
+Steps:
+1. Locate central/hidden chest
+2. Clear Piglins or isolate area
+3. Open chest quickly
+4. Grab high-value items first
+
+ASCII:
+
++------------------+
+| CHEST ROOM       |
++------------------+
+        |
+        v
+[OPEN → LOOT → EXIT]
+
+Important:
+- Opening chests triggers Piglin aggression
+- Always prepare escape path first
+
+------------------------------------------------------------
+
+7. GOLD FARMING INSIDE BASTION
+
+Gold blocks can be mined:
+- Used for bartering
+- Attract Piglin attention
+
+Strategy:
+- Mine gold quickly
+- Drop gold to bait Piglins away
+
+ASCII:
+
+[GOLD BLOCK]
+     |
+     v
++------------------+
+| Mine → Drop bait |
++------------------+
+     |
+     v
+[Piglins distracted]
+
+------------------------------------------------------------
+
+8. BARTERING SYSTEM
+
+Bartering with Piglins:
+
+PLAYER gives:
+- Gold ingot
+
+Piglin returns random loot:
+- Ender pearls (key speedrun item)
+- Fire resistance potions
+- Obsidian
+- Gravel / arrows / junk
+
+ASCII:
+
+[PLAYER GOLD]
+       |
+       v
++------------------+
+| PIGLIN BARTER    |
++------------------+
+       |
+       v
+[RANDOM LOOT POOL]
+
+Key speedrun goal:
+- Maximize ender pearl output
+
+------------------------------------------------------------
+
+9. PIGLIN BRUTE MANAGEMENT
+
+Brutes:
+- Always hostile
+- High damage
+- Dangerous in tight spaces
+
+Strategy:
+- Avoid direct combat
+- Use terrain separation
+- Block paths or isolate
+
+ASCII:
+
+[BRUTE]
+   |
+   v
++------------------+
+| DO NOT ENGAGE    |
++------------------+
+   |
+   v
+[BLOCK / ESCAPE]
+
+------------------------------------------------------------
+
+10. MOVEMENT AND PATHING
+
+Efficient movement rules:
+- Stay elevated when possible
+- Avoid lava floor areas
+- Use blocks for bridging gaps
+- Minimize vertical drops
+
+ASCII PATH:
+
+SAFE ROUTE:
+START → HIGH GROUND → CHEST → GOLD → EXIT
+
+------------------------------------------------------------
+
+11. EXIT STRATEGY
+
+Exit immediately after:
+- Obtaining enough gold
+- Getting pearls or key loot
+- Losing control of area
+
+ASCII:
+
+[LOOT SECURED]
+       |
+       v
++------------------+
+| EXIT BASTION     |
++------------------+
+       |
+       v
+[NETHER TRANSITION]
+
+------------------------------------------------------------
+
+12. SPEEDRUN OPTIMIZATION RULES
+
+- Do NOT fully clear bastion
+- Do NOT fight all mobs
+- Focus only on:
+  - gold
+  - bartering
+  - treasure chest
+
+Core principle:
+SURVIVAL + VALUE EXTRACTION > FULL CLEAR
+
+------------------------------------------------------------
+
+13. COMMON FAILURE MODES
+
+- Opening chest without clearing Piglins
+- Fighting Brutes directly
+- Falling into lava
+- Losing gold control (no bartering fuel)
+- Staying too long in structure
+
+------------------------------------------------------------
+
+14. FACT-CHECK TAGS
+
+minecraft_bastion
+nether_structures
+piglin_behavior
+piglin_bartering
+speedrun_strategy
+minecraft_loot_system
+nether_navigation
+minecraft_brutes
+minecraft_speedrunning
+
+------------------------------------------------------------
+END OF DOCUMENT

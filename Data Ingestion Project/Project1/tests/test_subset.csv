@@ -1,0 +1,8 @@
+age,monthly_income,daily_internet_hours,smartphone_usage_years,social_media_hours,online_payment_trust_score,tech_savvy_score,monthly_online_orders,monthly_store_visits,avg_online_spend,shopping_preference
+56,221111,6.5,12,0.7,1,6,16,16,28551,Store
+69,96029,8.2,13,2.7,6,9,14,1,124056,Hybrid
+46,19055,6.4,4,2.1,10,8,2,0,81939,Store
+32,53170,6.4,11,0.7,2,10,20,3,35901,Store
+60,244016,6.0,5,0.7,2,5,18,16,131971,Store
+60,244016,6.0,5,0.7,2,5,18,16,131971,Store
+60,244016,6.0,5,0.7,2,,18,16,,Store

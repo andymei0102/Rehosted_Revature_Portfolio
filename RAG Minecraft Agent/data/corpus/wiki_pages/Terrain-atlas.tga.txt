@@ -1,0 +1,17 @@
+terrain-atlas.tga and the mipmap variants terrain-atlas_mip0.tga, terrain-atlas_mip1.tga, terrain-atlas_mip2.tga and terrain-atlas_mip3.tga were texture atlases found inside minecraft.apk that were used to load the game's block textures.
+
+
+== Format ==
+terrain-atlas.tga is a fixed-width 512256-pixel file that is split into different 1616 squares which correspond to the texture of each block found in-game.
+terrain-atlas_mip0.tga is a 256128-pixel, terrain-atlas_mip1.tga 12864-pixel, terrain-atlas_mip2.tga 6432-pixel and terrain-atlas_mip3.tga 3216-pixel files that is split into different 88, 44, 22 and 11 squares which correspond to the mipmap texture of each block found in-game.
+
+
+== History ==
+
+
+== See also ==
+items-opaque.tga
+Texture atlas
+
+
+== Navigation ==
